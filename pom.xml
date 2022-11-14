@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.2.3.RELEASE</spring.version>
+		<spring.version>4.2.7.RELEASE</spring.version>
 		<shiro.version>1.2.3</shiro.version>
 		<cglib.version>3.1</cglib.version>
 		<httpclient.version>4.3.1</httpclient.version>
